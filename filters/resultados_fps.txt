@@ -1,0 +1,24 @@
+monocromatizar_c 16
+monocromatizar_asm 30
+monocromatizar binario_c 11
+monocromatizar binario_asm 28
+suavizar_c 1
+suavizar_asm 7
+sharpness_c 1
+sharpness_asm 1
+invertir_c 9
+invertir_asm 21
+deteccion bordes_c 1
+deteccion bordes_asm 15
+eliminar ruido_c 5
+eliminar ruido_asm 9
+extraer canal rojo_c 10
+extraer canal rojo_asm 19
+extraer canal verde_c 10
+extraer canal verde_asm 18
+extraer canal azul_c 10
+extraer canal azul_asm 18
+contraste_c 0
+contraste_asm 12
+brillo_c 2
+brillo_asm 14
